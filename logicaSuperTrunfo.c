@@ -145,5 +145,3 @@ if (pib1 > pib2) {
 
     return 0;
 }
-
-
